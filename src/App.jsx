@@ -492,7 +492,7 @@ function Achievements() {
     { value: "1851+", title: "LeetCode Knight", text: "Max rating · Top 4% globally", color: "yellow" },
     { value: "1400+", title: "Codeforces Specialist", text: "Strong contest experience", color: "blue" },
     { value: "1200+", title: "Problems Solved", text: "Arrays, graphs, DP, trees, greedy, binary search, and advanced structures", color: "dark" },
-    { value: "10/10", title: "Core Academics", text: "OOP, DSA, Mathematics, AI/ML, Software Engineering & Embedded Systems", color: "light" },
+    { value: "10/10 grades", title: "Core Academics", text: "OOP, DSA, Mathematics, AI/ML, Software Engineering & Embedded Systems", color: "light" },
   ];
 
   return (
