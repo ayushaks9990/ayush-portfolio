@@ -140,7 +140,7 @@ const projects = [
     description:
       "Authenticated business-intelligence platform that transforms sales and marketing data into live analytics, polished visualizations, and executive-ready AI reports with agentic analysis and production deployment support.",
     tech: ["FastAPI", "React", "PostgreSQL", "Groq", "RAG", "Docker"],
-    repo: "https://github.com/ayushaks9990/Report_Generator",
+    repo: "https://github.com/ayushaks9990/ReporT",
     image: ReportImg,
     accent: "blue",
   },
